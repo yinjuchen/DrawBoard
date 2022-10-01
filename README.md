@@ -1,4 +1,4 @@
-<h1>Robot Joke Teller</h1>
+<h1>DrawBoard</h1>
 
 ## Features
 1. User can draw the canvas by choose the function of the tool bar
