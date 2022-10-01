@@ -11,6 +11,7 @@
 7. User can retrive the drawing by clicking the load local storage icon
 8. User can erase the drawing by clicking the eraser icon
 9. User can delete the drawing by clicking the clear icon
+10.User need to use this application with larger screen with max-width: 800px
 
 ## Installation and Execution
 Clone the project<br>
